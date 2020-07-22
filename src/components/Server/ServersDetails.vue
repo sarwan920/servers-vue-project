@@ -11,7 +11,7 @@ export default {};
 
 <style  scoped>
 div {
-        border: 1px solid red;
+        border: 1px solid rgb(117, 199, 219);
     }
 
 </style>
